@@ -3,4 +3,4 @@ Script to grab URLs of recent BBC Hausa articles using Twitter API, grab text co
 
 #Dependencies
 [Python Twitter]()
-[Mining the Social Web Recipes](https://rawgit.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/__Chapter%201%20-%20Mining%20Twitter%20(Full-Text%20Sampler\).html)
+[Mining the Social Web Recipes](https://rawgit.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/)
