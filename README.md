@@ -1,5 +1,5 @@
 #Summary
-Script to grab URLs of recent BBC Hausa articles using Twitter API, grab text content and clean for parameterising language detection module based on 3 character sequence ([langid](https://github.com/saffsd/langid.py))
+Notebook to grab URLs of recent BBC Hausa articles using Twitter API, grab text content and clean for parameterising language detection module based on 3 character sequence ([langid](https://github.com/saffsd/langid.py))
 
 #Dependencies
 * [Python Twitter](https://github.com/sixohsix/twitter)

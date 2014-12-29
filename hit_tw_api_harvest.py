@@ -7,7 +7,7 @@ import json
 import twitter
 from functools import partial
 from sys import maxint
-from scerets import *
+from secrets import *
 
 def oauth_login():
     
